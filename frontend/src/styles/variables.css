@@ -1,0 +1,45 @@
+/* =========================
+    VARIÁVEIS GLOBAIS
+========================= */
+:root {
+    /* Cores */
+    --color-bg: #f8f9fa;
+    --color-surface: #ffffff;
+    --color-text: #212529;
+    --color-muted: #6c757d;
+    --color-primary: #2a5298;
+    --color-primary-dark: #1e3c72;
+    --color-success: #28a745;
+    --color-danger: #dc3545;
+    --color-border: rgba(33, 37, 41, 0.08);
+
+    /* Tipografia */
+    --font-family-sans: "Inter", system-ui, Avenir, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    --font-size-base: 16px;
+    --line-height-base: 1.5;
+    --font-weight-regular: 400;
+    --font-weight-bold: 700;
+
+    /* Espaçamentos */
+    --space-xxs: 4px;
+    --space-xs: 8px;
+    --space-sm: 12px;
+    --space-md: 16px;
+    --space-lg: 24px;
+    --space-xl: 32px;
+
+    /* Bordas e sombreamentos */
+    --radius-sm: 6px;
+    --radius-md: 12px;
+    --radius-lg: 20px;
+    --shadow-sm: 0 4px 10px rgba(0, 0, 0, 0.06);
+    --shadow-md: 0 10px 20px rgba(0, 0, 0, 0.10);
+
+    /* Transições */
+    --transition-fast: 150ms;
+    --transition-medium: 200ms;
+    --transition-slow: 300ms;
+
+    /* Layout */
+    --container-max-width: 1200px;
+}
