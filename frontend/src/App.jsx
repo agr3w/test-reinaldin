@@ -135,7 +135,7 @@ function App() {
                         {produto.descricao || "Sem descrição"}
                       </Card.Text>
                       <h5 className="text-primary">
-                        R$ {produto.preco.toFixed(2)}
+                        {new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL' }).format(produto.preco)}
                       </h5>
                     </Card.Body>
                   </Card>
