@@ -43,7 +43,7 @@ Nota: Verifique o arquivo src/main/resources/application.properties no Backend p
 2.  Execute o comando:
 
     ```
-    ./mvnw spring-boot:run
+    mvnw spring-boot:run
     ```
 
     *Ou abra o projeto na sua IDE de preferência (IntelliJ/VS Code) e execute a classe `CatalogoApplication.java`.*
