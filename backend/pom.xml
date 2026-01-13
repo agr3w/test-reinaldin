@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>catalogo-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>projeto reinaldin</name>
+	<name>Catalogo Reinaldin</name>
 	<description>Projeto reinaldin</description>
 	<url/>
 	<licenses>
